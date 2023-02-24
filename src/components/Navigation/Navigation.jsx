@@ -32,11 +32,11 @@ const Navigation = () => {
       </Container>
     </Navbar>
     <Container className="d-flex flex-column justify-content-center align-items-center" >
-    <img
+    {/* <img
           className="mx-auto h-12 w-auto"
           src="https://play-lh.googleusercontent.com/h6z0ro9wtsxb20fgLaIDXJrXtWqDyvm_Bnfk-q3JFbg08R2PgNq8ZSAoUX1DYDXLofPD=w240-h480-rw"
           alt="Phonebook"
-        />
+        /> */}
   <h1 >Wellcome to PhoneBook</h1>
   </Container>
     </>
